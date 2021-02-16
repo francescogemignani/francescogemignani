@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on <b>Free Music Archive</b> (FMA), an open dataset suitable for evaluating several tasks in MIR.
+🔭 I’m currently working on <b>Free Music Archive</b> (FMA), an open dataset and easily accessible suitable for evaluating several tasks in MIR.
 
-🌱 I’m currently learning IT Management, Machine Learning, Deep Learning and Business Informatics.
+🌱 I’m currently learning <b>IT Management</b>, <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Business Informatics</b>.
 
 
 
