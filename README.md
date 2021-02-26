@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [FMA: Free Music Archive](https://github.com/mdeff/fma), an open dataset and easily accessible suitable for evaluating several tasks in MIR.
+🔭 I’m currently working on [FMA: Free Music Archive](https://github.com/mdeff/fma).
+
+💻 Some of my recent works: [IBM-HR-Employee-Attrition](https://github.com/francescogemignani/IBM-HR-Employee-Attrition)
 
 🌱 I’m currently learning <b>IT Management</b>, <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Business Informatics</b>.
 
