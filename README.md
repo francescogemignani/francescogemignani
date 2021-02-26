@@ -15,7 +15,7 @@
 
 <b>Bachelor's degree</b>: I graduated in <b>Computer Science</b> @ University of Pisa
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescogemignani)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescogemignani)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 English: upper intermediate level
