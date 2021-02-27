@@ -11,11 +11,15 @@
 ### Education
 <img src="unipi_logo.png" width=100 height=100>
 
-*<b>Master's degree</b>: I am currently a MSc student in <b>Data Science and Business Informatics</b> @ University of Pisa
+* <b>Master's degree</b>: I am currently a MSc student in <b>Data Science and Business Informatics</b> @ University of Pisa
 
-*<b>Bachelor's degree</b>: I graduated in <b>Computer Science</b> @ University of Pisa
+* <b>Bachelor's degree</b>: I graduated in <b>Computer Science</b> @ University of Pisa
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescogemignani)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/francescogemignani/Engine-Company-Flow-Problem)
+
+
 
 <!--
 **francescogemignani/francescogemignani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
