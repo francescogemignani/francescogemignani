@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on 
-
 💻 Some of my recent works: [Echonest Audio Analysis](https://github.com/mdeff/fma)♫ & [Risk of Business Failure](https://github.com/francescogemignani/Risk-of-Business-Failure)
 
 🌱 I’m currently learning <b>Big Data</b>, <b>Text Analytics</b>, <b>Machine Learning</b> and <b>Business Process Modeling</b>.
