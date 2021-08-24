@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [FMA: Free Music Archive](https://github.com/mdeff/fma)♫ & [Risk of Business Failure](https://github.com/francescogemignani/Risk-of-Business-Failure)
+🔭 I’m currently working on 
 
-💻 Some of my recent works: [IBM-HR-Employee-Attrition](https://github.com/francescogemignani/IBM-HR-Employee-Attrition)
+💻 Some of my recent works: [Echonest Audio Analysis](https://github.com/mdeff/fma)♫ & [Risk of Business Failure](https://github.com/francescogemignani/Risk-of-Business-Failure)
 
-🌱 I’m currently learning <b>IT Management</b>, <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Business Informatics</b>.
+🌱 I’m currently learning <b>Big Data</b>, <b>Text Analytics</b>, <b>Machine Learning</b> and <b>Business Process Modeling</b>.
 
 
 
