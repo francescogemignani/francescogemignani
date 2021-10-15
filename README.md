@@ -2,7 +2,7 @@
 
 💻 Some of my recent works: [Echonest Audio Analysis ♫](https://github.com/mdeff/fma) & [Risk of Business Failure](https://github.com/francescogemignani/Risk-of-Business-Failure)
 
-🌱 I’m currently learning <b>Big Data</b>, <b>Text Analytics</b>, <b>Machine Learning</b> and <b>Business Process Modeling</b>.
+🌱 I’m currently learning <b>Distributed Data Analysis and Mining</b>, <b>Text Analytics</b>, <b>Information Retrivial</b> and <b>Business Process Modeling</b>.
 
 
 
