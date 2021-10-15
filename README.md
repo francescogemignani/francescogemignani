@@ -3,6 +3,7 @@
 💻 Some of my recent works: [Echonest Audio Analysis ♫](https://github.com/mdeff/fma) & [Risk of Business Failure](https://github.com/francescogemignani/Risk-of-Business-Failure)
 
 🌱 I’m currently learning <b>Laboratory of Data Science</b>, <b>Distributed Data Analysis & Mining</b>, <b>Text Analytics</b>, <b>Information Retrivial</b> and <b>Business Process Modeling</b>.
+
 😄 Enthusiastic MSc student about <b>Machine Learning</b>, <b> Data Mining & Analysis </b> and <b>Big Data</b>
 
 
