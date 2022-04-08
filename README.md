@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Some of my recent works: [Echonest Audio Analysis ♫](https://github.com/francescogemignani/FMA-Dataset-for-Music-Analysis) & [Risk of Business Failure](https://github.com/francescogemignani/Risk-of-Business-Failure)
+💻 Some of my recent works: [Multilabel Toxic Comment Classification 💬](https://github.com/francescogemignani/Toxic-Comments-Classification-Challenge) &  [Echonest Audio Analysis ♫](https://github.com/francescogemignani/FMA-Dataset-for-Music-Analysis)
 
 🌱 I’m currently learning <b>Distributed Data Analysis & Mining</b>, <b>Text Analytics</b>, <b>Information Retrivial</b> and <b>Business Process Modeling</b>.
 
